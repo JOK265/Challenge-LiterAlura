@@ -26,7 +26,6 @@ public class Autor {
         this.anoFalecimento = anoFalecimento;
     }
 
-    // Getters e Setters
     public Long getId() {
         return id;
     }
